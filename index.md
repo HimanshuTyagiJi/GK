@@ -84,9 +84,4 @@ keywords: latest GK, daily general knowledge, GK quizzes, learning articles, cur
 
   {% include footer.html %}
 
-  <!-- JS -->
-  <script src="{{ '/scr/js/common.js' | relative_url }}" defer></script>
-  <script src="{{ '/scr/js/app.js' | relative_url }}" defer></script>
-  <script src="https://gklearnstudy.in/js/comment.js" defer></script>
-</body>
-</html>
+
