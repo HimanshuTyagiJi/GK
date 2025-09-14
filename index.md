@@ -207,14 +207,14 @@ keywords: latest GK, daily general knowledge, GK quizzes, learning articles, cur
                     <input type="text" id="post-filter-input" placeholder="Filter articles by title, content, or author..." aria-label="Filter articles" />
                 </div>
 
-                <section id="post-grid" class="post-grid">
+                <main id="post-grid" class="post-grid">
                 
 
-                </section>
+                </main>
 
                 <div id="load-more-container">
                     <button id="load-more-btn">Load More</button>
                 </div>
             </div>
-        </div>
+     
     </main>
