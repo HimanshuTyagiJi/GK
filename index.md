@@ -47,8 +47,8 @@ keywords: latest GK, daily general knowledge, GK quizzes, learning articles, cur
   <meta name="twitter:image:alt" content="GK Learn Study - Your gateway to daily knowledge" />
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ '/css/theme.css' | relative_url }}" />
-  <link rel="stylesheet" href="{{ '/css/main-theme.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ 'https://gklearnstudy.in/css/theme.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ 'https://gklearnstudy.in/css/main-theme.css' | relative_url }}" />
 
   <!-- JSON-LD -->
   <script type="application/ld+json">
