@@ -1,3 +1,10 @@
+---
+layout: default
+title: GK Learn Study
+description: Explore the latest GK, Quizzes, and daily learning articles from GK Learn Study.
+keywords: latest GK, daily general knowledge, GK quizzes, learning articles, current affairs, computer science
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
